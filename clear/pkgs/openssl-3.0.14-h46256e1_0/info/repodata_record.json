@@ -1,0 +1,19 @@
+{
+  "build": "h46256e1_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "ca-certificates"
+  ],
+  "fn": "openssl-3.0.14-h46256e1_0.conda",
+  "license": "Apache-2.0",
+  "md5": "d722280df65b3308e1b8b1b7777a3305",
+  "name": "openssl",
+  "sha256": "04512a531a049492ec72192587136a15fc46b25fa85a2ac67062e2b3641c13ef",
+  "size": 4655825,
+  "subdir": "osx-64",
+  "timestamp": 1718385319000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/openssl-3.0.14-h46256e1_0.conda",
+  "version": "3.0.14"
+}

@@ -1,0 +1,23 @@
+{
+  "build": "py312h30e54ef_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [
+    "pyopenssl >=23.0.0"
+  ],
+  "depends": [
+    "cffi >=1.12",
+    "openssl >=3.0.13,<4.0a0",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "cryptography-42.0.5-py312h30e54ef_1.conda",
+  "license": "Apache-2.0 OR BSD-3-Clause",
+  "md5": "095b2b6d0b916e19bc55fe01c5e1efd9",
+  "name": "cryptography",
+  "sha256": "7885e0feb31f9aabda1c69c4869b9241afcbd701a6adddb57af9fad47c199b49",
+  "size": 1348903,
+  "subdir": "osx-64",
+  "timestamp": 1714661619000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/cryptography-42.0.5-py312h30e54ef_1.conda",
+  "version": "42.0.5"
+}

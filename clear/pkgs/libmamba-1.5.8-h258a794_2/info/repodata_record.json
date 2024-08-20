@@ -1,0 +1,29 @@
+{
+  "build": "h258a794_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "bzip2 >=1.0.8,<2.0a0",
+    "fmt >=9.1.0,<10.0a0",
+    "libarchive >=3.6.2,<3.7.0a0",
+    "libcurl >=8.1.1,<9.0a0",
+    "libcxx >=14.0.6",
+    "libsolv >=0.7.24,<0.8.0a0",
+    "openssl >=3.0.13,<4.0a0",
+    "reproc >=14.2,<15.0a0",
+    "reproc-cpp >=14.2,<15.0a0",
+    "yaml-cpp >=0.8.0,<0.9.0a0",
+    "zstd >=1.5.2,<1.6.0a0"
+  ],
+  "fn": "libmamba-1.5.8-h258a794_2.conda",
+  "license": "BSD-3-Clause",
+  "md5": "217fe481d16afbf36df365e5a55144bd",
+  "name": "libmamba",
+  "sha256": "b2ef70b32222634246d02fd7faf30bc9751635597cf29973a2371d15cdb4ccd6",
+  "size": 1432368,
+  "subdir": "osx-64",
+  "timestamp": 1714483976000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/libmamba-1.5.8-h258a794_2.conda",
+  "version": "1.5.8"
+}

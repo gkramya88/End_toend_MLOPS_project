@@ -1,0 +1,13 @@
+prefix=/Users/ramyagk/Documents/IK-ML/ML-Ops/end-to-end-demo/End_toend_MLOPS_project/env
+exec_prefix=/Users/ramyagk/Documents/IK-ML/ML-Ops/end-to-end-demo/End_toend_MLOPS_project/env
+libdir=/Users/ramyagk/Documents/IK-ML/ML-Ops/end-to-end-demo/End_toend_MLOPS_project/env/lib
+sharedlibdir=/Users/ramyagk/Documents/IK-ML/ML-Ops/end-to-end-demo/End_toend_MLOPS_project/env/lib
+includedir=/Users/ramyagk/Documents/IK-ML/ML-Ops/end-to-end-demo/End_toend_MLOPS_project/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

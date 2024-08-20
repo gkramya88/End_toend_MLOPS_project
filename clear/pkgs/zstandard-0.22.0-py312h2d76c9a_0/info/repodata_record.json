@@ -1,0 +1,22 @@
+{
+  "build": "py312h2d76c9a_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.11",
+    "python >=3.12,<3.13.0a0",
+    "zstd >=1.5.5,<1.5.6.0a0",
+    "zstd >=1.5.5,<1.6.0a0"
+  ],
+  "fn": "zstandard-0.22.0-py312h2d76c9a_0.conda",
+  "license": "BSD-3-Clause",
+  "md5": "c58a9251a2e00ac49d499d1c82c984ea",
+  "name": "zstandard",
+  "sha256": "b7911b6d46ec247a7a6c6e6600de7987743597dc0214bb11980109fd0ba5e387",
+  "size": 464134,
+  "subdir": "osx-64",
+  "timestamp": 1714677791000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/zstandard-0.22.0-py312h2d76c9a_0.conda",
+  "version": "0.22.0"
+}

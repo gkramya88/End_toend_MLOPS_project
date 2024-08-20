@@ -1,0 +1,19 @@
+{
+  "build": "py312h6c40b1e_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "ruamel.yaml-0.17.21-py312h6c40b1e_0.conda",
+  "license": "MIT",
+  "md5": "76d07eeb3f92e31367d1157c2ab4cd99",
+  "name": "ruamel.yaml",
+  "sha256": "0695f8e3c2042692745967f8eced3caa868a8825ef6d0729fd1fc0ba2d5da943",
+  "size": 247590,
+  "subdir": "osx-64",
+  "timestamp": 1699247075000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/ruamel.yaml-0.17.21-py312h6c40b1e_0.conda",
+  "version": "0.17.21"
+}

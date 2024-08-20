@@ -1,0 +1,19 @@
+{
+  "build": "py312hecd8cb5_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "pluggy-1.0.0-py312hecd8cb5_1.conda",
+  "license": "MIT",
+  "md5": "647fada22f1697691fdee90b52c99bcb",
+  "name": "pluggy",
+  "sha256": "54b0ad29524ebc247e527958713b751ef6b41e044137fc4fd5f0c9da886fa1f4",
+  "size": 32450,
+  "subdir": "osx-64",
+  "timestamp": 1699238618000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pluggy-1.0.0-py312hecd8cb5_1.conda",
+  "version": "1.0.0"
+}

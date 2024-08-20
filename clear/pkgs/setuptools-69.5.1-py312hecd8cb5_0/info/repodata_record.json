@@ -1,0 +1,19 @@
+{
+  "build": "py312hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "setuptools-69.5.1-py312hecd8cb5_0.conda",
+  "license": "MIT",
+  "md5": "5c7c7ef1e0762e3ca1f543d28310946f",
+  "name": "setuptools",
+  "sha256": "763a678fe11c32772304441f83855007745e13749bf0f6469a4859010bbf273b",
+  "size": 1352895,
+  "subdir": "osx-64",
+  "timestamp": 1715025704000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/setuptools-69.5.1-py312hecd8cb5_0.conda",
+  "version": "69.5.1"
+}

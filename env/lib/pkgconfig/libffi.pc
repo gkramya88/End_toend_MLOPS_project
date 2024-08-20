@@ -1,0 +1,11 @@
+prefix=/Users/ramyagk/Documents/IK-ML/ML-Ops/end-to-end-demo/End_toend_MLOPS_project/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/ramyagk/Documents/IK-ML/ML-Ops/end-to-end-demo/End_toend_MLOPS_project/env/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

@@ -1,0 +1,21 @@
+{
+  "build": "py312hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "setuptools",
+    "wheel"
+  ],
+  "fn": "pip-24.0-py312hecd8cb5_0.conda",
+  "license": "MIT",
+  "md5": "7a8e0b1d3742ddf1c8aa97fbaa158039",
+  "name": "pip",
+  "sha256": "c39d7ab8307046b4e796944a9361728f3e7b5af4a049a717d3479124d460b710",
+  "size": 3422730,
+  "subdir": "osx-64",
+  "timestamp": 1715097097000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pip-24.0-py312hecd8cb5_0.conda",
+  "version": "24.0"
+}

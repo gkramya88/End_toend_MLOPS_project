@@ -1,0 +1,19 @@
+{
+  "build": "py312hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "certifi-2024.6.2-py312hecd8cb5_0.conda",
+  "license": "MPL-2.0",
+  "md5": "39719e427fdeea7e51c2800079981c37",
+  "name": "certifi",
+  "sha256": "86e3c590134bdc5f260613d7aea9c05f4817ebb0d04db4b1c0876e53bb49e2d3",
+  "size": 165559,
+  "subdir": "osx-64",
+  "timestamp": 1717618175000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/certifi-2024.6.2-py312hecd8cb5_0.conda",
+  "version": "2024.6.2"
+}

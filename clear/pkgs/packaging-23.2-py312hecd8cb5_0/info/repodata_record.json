@@ -1,0 +1,19 @@
+{
+  "build": "py312hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "packaging-23.2-py312hecd8cb5_0.conda",
+  "license": "Apache-2.0 or BSD-2-Clause",
+  "md5": "2b4e331c8f6df5d95a5dd3af37a34d89",
+  "name": "packaging",
+  "sha256": "ca9efdf5d35b19b7ae54e991c6b5112fccf84249edecae1587d581d6adf1d76e",
+  "size": 175095,
+  "subdir": "osx-64",
+  "timestamp": 1710810599000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/packaging-23.2-py312hecd8cb5_0.conda",
+  "version": "23.2"
+}

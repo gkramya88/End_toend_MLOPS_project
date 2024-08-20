@@ -1,0 +1,26 @@
+{
+  "build": "h29ab7a1_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "bzip2 >=1.0.8,<2.0a0",
+    "libiconv >=1.16,<2.0a0",
+    "libxml2 >=2.10.4,<2.11.0a0",
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "openssl 3.*",
+    "xz >=5.4.6,<6.0a0",
+    "zlib >=1.2.13,<1.3.0a0",
+    "zstd >=1.5.2,<1.6.0a0"
+  ],
+  "fn": "libarchive-3.6.2-h29ab7a1_3.conda",
+  "license": "BSD-2-Clause",
+  "md5": "b72d76521512812e3466ea62efa2e34a",
+  "name": "libarchive",
+  "sha256": "53a5327d489d0cd1b7162287efed129fc116c68d3630f3802eefa12ea1f5f42b",
+  "size": 798121,
+  "subdir": "osx-64",
+  "timestamp": 1714483748000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/libarchive-3.6.2-h29ab7a1_3.conda",
+  "version": "3.6.2"
+}

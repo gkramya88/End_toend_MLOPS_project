@@ -1,0 +1,19 @@
+{
+  "build": "hcec6c5f_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=14.0.6"
+  ],
+  "fn": "expat-2.6.2-hcec6c5f_0.conda",
+  "license": "MIT",
+  "md5": "c748234dd7e242784198ab038372cb0c",
+  "name": "expat",
+  "sha256": "629c5d7e7f090e30d354c8ed3c056e5ca9c3878738952ae169e75ca3d38d6410",
+  "size": 153440,
+  "subdir": "osx-64",
+  "timestamp": 1713531040000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/expat-2.6.2-hcec6c5f_0.conda",
+  "version": "2.6.2"
+}

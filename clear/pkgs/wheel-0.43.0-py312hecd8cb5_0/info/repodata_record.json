@@ -1,0 +1,19 @@
+{
+  "build": "py312hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "fn": "wheel-0.43.0-py312hecd8cb5_0.conda",
+  "license": "MIT",
+  "md5": "c0bdd5748b170523232e8ad1d667136c",
+  "name": "wheel",
+  "sha256": "221754176b875c2af75c3dff2895671c75b19fa11694598476fc64ab1014a6f6",
+  "size": 143182,
+  "subdir": "osx-64",
+  "timestamp": 1714717026000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/wheel-0.43.0-py312hecd8cb5_0.conda",
+  "version": "0.43.0"
+}
